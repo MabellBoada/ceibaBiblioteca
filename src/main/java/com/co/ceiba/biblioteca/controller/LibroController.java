@@ -11,8 +11,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.co.ceiba.biblioteca.modelo.Libro;
 import com.co.ceiba.biblioteca.services.ILibroService;
-import com.co.ceiba.modelo.Libro;
 
 @SuppressWarnings("serial")
 @RestController

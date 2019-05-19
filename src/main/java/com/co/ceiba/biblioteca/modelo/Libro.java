@@ -1,4 +1,4 @@
-package com.co.ceiba.modelo;
+package com.co.ceiba.biblioteca.modelo;
 
 import javax.persistence.Table;
 

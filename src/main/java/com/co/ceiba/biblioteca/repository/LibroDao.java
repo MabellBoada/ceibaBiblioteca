@@ -7,7 +7,7 @@ import javax.transaction.Transactional;
 import org.springframework.stereotype.Repository;
 
 import com.co.ceiba.biblioteca.exception.BibliotecaException;
-import com.co.ceiba.modelo.Libro;
+import com.co.ceiba.biblioteca.modelo.Libro;
 
 @Transactional
 @Repository
