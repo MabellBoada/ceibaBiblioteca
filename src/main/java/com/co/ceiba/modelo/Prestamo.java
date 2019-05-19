@@ -1,4 +1,4 @@
-package com.co.ceiba.biblioteca;
+package com.co.ceiba.modelo;
 
 import java.io.Serializable;
 import java.util.Date;

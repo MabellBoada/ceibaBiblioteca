@@ -7,15 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class BibliotecaApplication {
 
 	public static void main(String[] args) {
-		//SpringApplication.run(BibliotecaApplication.class, args);
-		Libro libro = new Libro();
-		libro.setIsbn(11111);
-		libro.setCantidad(2);
-		libro.setNombre("test");
-		libro.setPalindromo(true);
-		
+		SpringApplication.run(BibliotecaApplication.class, args);	
 	}
-	
-	
-
 }
